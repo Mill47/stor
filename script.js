@@ -1,7 +1,7 @@
 const productCard = document.querySelector(".card");
 const backArrow = document.querySelector(".back-arrow");
 let card;
-
+/*
 productCard.addEventListener("click", (event) => {
   card = event.currentTarget;
 
