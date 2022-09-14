@@ -176,7 +176,7 @@ h3 {
   height: 100%;
   background: radial-gradient(
       80% 80% at 0% 50%,
-      #fada5e 49.5%,
+      #white 49.5%,
       transparent 50.5%
     ),
     radial-gradient(50% 50% at 100% 80%, #fada5e 49.5%, transparent 50.5%);
